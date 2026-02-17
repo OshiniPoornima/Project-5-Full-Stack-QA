@@ -13,7 +13,7 @@ This project demonstrates a complete QA testing workflow covering manual testing
 
 
 ## 📋 Project Structure
-
+~~~
 Project-5-Full-Stack-QA/
 │
 ├── Manual_Testing/
@@ -58,7 +58,7 @@ Project-5-Full-Stack-QA/
 │
 └── README.md
 
-
+~~~
 ---
 
 ## 🎯 Testing Phases Completed
@@ -271,5 +271,6 @@ GitHub: [github.com/OshiniPoornima](https://github.com/OshiniPoornima)
 ## 📝 License
 
 This project is for portfolio and educational purposes. OrangeHRM Demo is a publicly available application for testing practice.
+
 
 ---
